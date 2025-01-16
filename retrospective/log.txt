@@ -1,3 +1,9 @@
+commit 843bdd98cb7b9202e534b2f11e5ca38cdbe373c3
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Wed Jan 15 20:11:01 2025 -0600
+
+    created retorspective directory
+
 commit 5c9600da59cf5fd42ee339fa5b97e28d3e330011
 Author: Nylah Encalade <nylahencalade@icloud.com>
 Date:   Fri Jan 10 20:21:45 2025 -0600
