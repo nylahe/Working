@@ -1,3 +1,9 @@
+commit ee30d3ee3b79c3e3a89384862323a2a955ca9d17
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Wed Jan 15 20:14:52 2025 -0600
+
+    corrected retrospective and added git log command
+
 commit 843bdd98cb7b9202e534b2f11e5ca38cdbe373c3
 Author: Nylah Encalade <nylahencalade@icloud.com>
 Date:   Wed Jan 15 20:11:01 2025 -0600
