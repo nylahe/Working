@@ -1,0 +1,98 @@
+commit 5c9600da59cf5fd42ee339fa5b97e28d3e330011
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Fri Jan 10 20:21:45 2025 -0600
+
+    added git version number to working branch
+
+commit ccccec1f01273d9ee002476ccee319f811e12fba
+Merge: ba86d4a 781c066
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Thu Jan 9 21:22:00 2025 -0600
+
+    Merge pull request #2 from nylahe/Test
+    
+    added student ID to README.md in Testing branch
+
+commit 781c0664aca08b49de32978cc8444a97d93c76ed
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Thu Jan 9 21:19:09 2025 -0600
+
+    added student ID to README.md in Testing branch
+
+commit ba86d4afa0ade97dc61c1b19e7a6a174ef255fcb
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Thu Jan 9 21:14:16 2025 -0600
+
+    added 2nd html file
+
+commit 8919dcfd92564b22d4eb11083ef13c7f6ea8524e
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Thu Jan 9 21:13:42 2025 -0600
+
+    Update html.3
+
+commit 26959389832d866ee4615c2ed3de4e644db88185
+Merge: 783ab6f 6d91aa5
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 6 17:56:49 2025 -0600
+
+    commit
+
+commit 783ab6fe8a8495fe595954ff68df35ebfe3c3f67
+Merge: 06c9210 a667ff9
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 6 17:50:18 2025 -0600
+
+    merge
+
+commit 6d91aa56aeb08a3a89a108ced6f22d6d5779c294
+Merge: a667ff9 2e0e279
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Jan 6 17:42:58 2025 -0600
+
+    Merge pull request #1 from nylahe/Test
+    
+    Added student id to Testing branch
+
+commit 2e0e279f87b409a56bc201d3d8f28270d0cab1dc
+Merge: bfe39d7 a667ff9
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Jan 6 17:42:49 2025 -0600
+
+    Merge branch 'main' into Test
+
+commit bfe39d777dc701fa81b429cc6280451ea7ce4c07
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Dec 23 21:43:37 2024 -0600
+
+    Added student id to Testing branch
+
+commit a667ff9b48854cb8ea5c7c4fb963a555f9d4c374
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Dec 23 21:41:41 2024 -0600
+
+    Update README.md
+
+commit 06c9210d2bf36931763cb85b9086baa757b1600f
+Author: Nylah Encalade <nylahencalade@MacBookAir.home>
+Date:   Mon Oct 14 22:36:29 2024 -0500
+
+    add id
+
+commit af95f91098b945d4e2b8918551ee3b85da9b02f1
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Oct 14 22:30:33 2024 -0500
+
+    Update README.md
+
+commit 719534bcb500d54757cf80529c5d3c0da57bc21d
+Author: Nylah Encalade <nylahencalade@MacBookAir.home>
+Date:   Tue Oct 8 21:09:03 2024 -0500
+
+    adds 3 htoml files
+
+commit d401841ee86c3433f966cfde2a838e3e62b25de5
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Oct 7 18:11:05 2024 -0500
+
+    Create README.md
