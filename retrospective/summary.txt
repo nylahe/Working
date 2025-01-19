@@ -1,0 +1,6 @@
+The mrege file in part El was resolved by first deciding which branch changes you are going to keep.
+Then you delete the conflict markers and make the changes you want in the final merge.
+Stage your changes then commit your changes.
+The three changes made in C1 were to commit each change to the HTML files in the working branch
+My messages that I used to commmit the changes were short and simple for all 3 of them
+It was simply "adds 3 html files".
